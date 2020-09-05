@@ -1,6 +1,6 @@
 # Algoritmos
 
-Repositório destinado a publicação dos meus estudos de algoritmos mais relevantes. 
+Repositório destinado a publicação dos meus estudos de alguns algoritmos. 
 
 ## Conteúdo:
 
